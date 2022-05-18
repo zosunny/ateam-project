@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      ㅋㅋㅋ
+      수정됐나?
     </div>
   );
 }
